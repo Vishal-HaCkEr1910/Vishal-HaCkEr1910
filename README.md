@@ -1,16 +1,38 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**Vishal-HaCkEr1910/Vishal-HaCkEr1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at IIIT Una (Himachal Pradesh)**  
+💻 **Programmer:** Python • C • C++ • x64 Assembly  
+🧠 **Focus Areas:** AI in Cybersecurity & Web Pentesting (Bug Bounty)
 
-Here are some ideas to get you started:
+🔐 I actively work on **offensive security and automation-based projects**, including:
+- Web Pentesting Automation Tools  
+- Python-based Malware & Antivirus Evasion  
+- CyberBuddy – Voice Assistant / Chatbot using Gemini API  
+- Steganography-based Web Applications  
+- Network & Security Tools (Port Scanner, SSH Bruteforcer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy collaborating in teams as well as building **solo security tools**, with a strong interest in **red-team operations, automation, and real-world exploitation**.  
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishal-yadav-iiituna)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalrao191004@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vishal-HaCkEr1910&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=Vishal-HaCkEr1910&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-HaCkEr1910&layout=compact&theme=dark)
