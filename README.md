@@ -2,7 +2,7 @@
 
 🎓 **Student at IIIT Una (Himachal Pradesh)**  
 💻 **Programmer:** Python • C • C++ • x64 Assembly  
-🧠 **Focus Areas:** AI in Cybersecurity & Web Pentesting (Bug Bounty)
+🧠 **Focus Areas:** AI in Cybersecurity , Cryptography & Web Pentesting (Bug Bounty)
 
 🔐 I actively work on **offensive security and automation-based projects**, including:
 - Web Pentesting Automation Tools  
@@ -22,7 +22,6 @@
 ---
 
 ## 💻 Tech Stack:
-## 🛡️ Cybersecurity & Red Team Tech Stack
 
 ### 🔴 Red Team / Offensive Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -30,6 +29,10 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005C9C?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Social Engineering](https://img.shields.io/badge/Social_Engineering-Attack_Simulation-8B0000?style=for-the-badge)
+![Phishing](https://img.shields.io/badge/Phishing-Awareness_Training-FF4500?style=for-the-badge)
+![Deep Web](https://img.shields.io/badge/Deep_Web-Research-2F4F4F?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-Open_Source_Intelligence-4B0082?style=for-the-badge)
 
 ---
 
@@ -37,26 +40,33 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+---
+
+### Cryptography and encryption
+![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![AES](https://img.shields.io/badge/AES-Encryption-2E8B57?style=for-the-badge)
+![DES](https://img.shields.io/badge/DES-Legacy_Crypto-8B0000?style=for-the-badge)
+![RSA](https://img.shields.io/badge/RSA-Public_Key_Crypto-003366?style=for-the-badge)
+![ECC](https://img.shields.io/badge/ECC-Elliptic_Curves-4B0082?style=for-the-badge)
+![BLS](https://img.shields.io/badge/BLS-Digital_Signatures-2F4F4F?style=for-the-badge)
 
 ---
 
 ### 🤖 AI & Automation for Security
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-API_Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Automation](https://img.shields.io/badge/Security_Automation-Python_Scripting-306998?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### ⚙️ Low-Level & Exploit Development
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-x64-black?style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB-FF0000?style=for-the-badge)
+![x64 Assembly](https://img.shields.io/badge/Assembly-x64-black?style=for-the-badge)
 
-## 🌐 Network Security & Operating Systems
+---
 
 ### 🔐 Network Security
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
