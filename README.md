@@ -9,7 +9,7 @@
 - Python-based Malware & Antivirus Evasion  
 - CyberBuddy – Voice Assistant / Chatbot using Gemini API  
 - Steganography-based Web Applications  
-- Network & Security Tools (Port Scanner, SSH Bruteforcer)
+- Network & Security Tools (Port Scanner, SSH Bruteforcer,Pdf encryptor,Keylogger)
 
 🚀 I enjoy collaborating in teams as well as building **solo security tools**, with a strong interest in **red-team operations, automation, and real-world exploitation**.  
 
