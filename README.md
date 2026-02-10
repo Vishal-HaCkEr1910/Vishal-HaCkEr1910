@@ -1,10 +1,11 @@
 # 💫 About Me:
 
 🎓 **Student at IIIT Una (Himachal Pradesh)**  
-💻 **Programmer:** Python • C • C++ • x64 Assembly  
-🧠 **Focus Areas:** AI in Cybersecurity , Cryptography & Web Pentesting (Bug Bounty)
+💻 **Programmer:** Python • C • C++ • x64 Assembly 
+🧠 **Focus Areas:** AI in Cybersecurity ,Reverse Engineering ,Malware Analysis Cryptography & Web Pentesting (Bug Bounty)
 
 🔐 I actively work on **offensive security and automation-based projects**, including:
+- Karan-Kavach - Anti malware monitoring system using hardware (not signature based)
 - Web Pentesting Automation Tools  
 - Python-based Malware & Antivirus Evasion  
 - CyberBuddy – Voice Assistant / Chatbot using Gemini API  
