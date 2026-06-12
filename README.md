@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🎓 **Student at IIIT Una (Himachal Pradesh)**  
-💻 **Programmer:** Python • C • C++ • x64 Assembly • Solidity 
+💻 **Programmer:** Python • C • C++ • x64 Assembly • Solidity                                                                   
 🧠 **Focus Areas:** AI in Cybersecurity ,Reverse Engineering ,Malware Analysis ,Cryptography ,WEB3 & Web Pentesting (Bug Bounty)
 
 🔐 I actively work on **offensive security and automation-based projects**, including:
